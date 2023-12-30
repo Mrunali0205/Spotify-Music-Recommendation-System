@@ -22,7 +22,9 @@ Pandas is employed for data manipulation and analysis, creating a seamless workf
 Technical Stack
 
 Programming Language: Python
+
 Libraries: Spotipy, Pandas, NumPy, Sklearn
+
 APIs: Spotify Web API
 
 Conclusion
